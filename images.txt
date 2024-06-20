@@ -1,2 +1,2 @@
-bleachwrt/plus:latest
+bleachwrt/plus
 lovechen/embyserver:latest
